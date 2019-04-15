@@ -17,6 +17,5 @@ spacy
 - Sentence Boundary Detection (SBD): Finding and segmenting individual sentences.
 - Text Classification: Assigning categories or labels to a whole document, or parts of a document.
 - Rule-based Matching: Finding sequences of tokens based on their texts and linguistic annotations, similar to regular expressions.
-- Training: Updating and improving a statistical model's predictions.
-- Serialization: Saving objects to files or byte strings.
+
 
