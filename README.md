@@ -18,6 +18,5 @@ spacy
 - Text Classification: Assigning categories or labels to a whole document, or parts of a document.
 - Rule-based Matching: Finding sequences of tokens based on their texts and linguistic annotations, similar to regular expressions.
 - Training: Updating and improving a statistical model's predictions.
- -Serialization: Saving objects to files or byte strings.
+- Serialization: Saving objects to files or byte strings.
 
-Based on tutorials from : https://www.youtube.com/watch?v=cgwDB1THUBY&list=PLJ39kWiJXSiz1LK8d_fyxb7FTn4mBYOsD
