@@ -17,5 +17,6 @@ spacy
 - Sentence Boundary Detection (SBD): Finding and segmenting individual sentences.
 - Text Classification: Assigning categories or labels to a whole document, or parts of a document.
 - Rule-based Matching: Finding sequences of tokens based on their texts and linguistic annotations, similar to regular expressions.
+- Chunking:process of taking individual pieces of information (chunks) and grouping them into larger units
 
 
